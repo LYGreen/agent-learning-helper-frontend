@@ -1,6 +1,7 @@
 # Agent Learning Helper Frontend
 
 Agent Learning Helper Frontend 是一个智能学习伙伴的前端，用于与智能体的交互
+> [后端项目](https://github.com/LYGreen/agent-learning-helper-backend.git)
 
 ## 技术栈
 
